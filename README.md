@@ -1,6 +1,6 @@
 # adventofcode
 
-- Hosts solutions for [Advent Of Code][1] written by onebree.
+- Hosts solutions for [Advent Of Code][1] written by Hunter Stevens (onebree).
 - Problems will be organized by day.
 - Each day will include the problem description, solution, and submitted input.
 
