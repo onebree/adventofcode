@@ -60,6 +60,13 @@ y: 456
 In little Bobby's kit's instructions booklet (provided as your puzzle input), 
 what signal is ultimately provided to **wire `a`**?
 
+## Part Two
+
+Now, take the signal you got on wire `a`, override wire `b` to that signal, and 
+reset the other wires (including wire `a`). What new signal is ultimately 
+provided to wire `a`?
+
+
 
 [1]: https://en.wikipedia.org/wiki/Bitwise_operation
 [2]: https://en.wikipedia.org/wiki/16-bit
